@@ -13,15 +13,13 @@ header {
 	width: 100%;
 	padding: 0px 20%;
 }
+
 #section-2 {
 	width: 1200px;
 	height: 800px;
 	margin: 0 auto;
 }
 
-.background-image {
-	background-image: url(/Users/alik/Desktop/becode);
-}
 
 .container {
 	width: 1200px;
