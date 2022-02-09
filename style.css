@@ -1,0 +1,132 @@
+body {
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+header {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.menu-list {
+	width: 100%;
+	padding: 0px 20%;
+}
+#section-2 {
+	width: 1200px;
+	height: 800px;
+	margin: 0 auto;
+}
+
+.background-image {
+	background-image: url(/Users/alik/Desktop/becode);
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.btn-light {
+	color: orange;
+	font: 2 Futura, ‘Century Gothic’, AppleGothic, sans-serif;
+	padding: 8px;
+	background: transparent;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	cursor: pointer;
+	border: 1px solid orange;
+	width: 120px;
+}
+
+.btn-full {
+	color: white;
+	padding: 4px;
+	background: darkorange;
+	border-radius: 4px;
+	cursor: pointer;
+	width: 140px;
+	height: 50px;
+	border: 0px;
+}
+
+footer {
+	border: 2px solid purple;
+	height: 100px;
+	width: 100%;
+}
+
+h1 {
+	font-size: 62px;
+}
+
+.flex-container {
+	display: flex;
+}
+
+.space-around {
+	justify-content: space-around;
+}
+
+.space-between {
+	justify-content: space-between;
+}
+
+.align-baseline {
+	align-items: baseline;
+}
+
+.align-center {
+	align-items: center;
+}
+
+.margin-web {
+	margin: 10px;
+}
+
+/* Splits */
+
+.split-20 {
+	width: 20%;
+}
+
+.split-40 {
+	width: 40%;
+}
+
+.split-50 {
+	width: 50%;
+}
+
+.pense {
+	margin-left: 6px;
+}
+
+.orange-bg {
+	background-color: rgba(255, 102, 0, 0.808);
+}
+
+.circle {
+	border-radius: 50%;
+	width: 12px;
+	height: 12px;
+	padding: 8px;
+	color: white;
+	text-align: center;
+	font: 12px Arial, sans-serif;
+	background-color: orange;
+}
+
+.down-arrow {
+	border: solid white;
+	border-width: 0 3px 3px 0;
+	display: inline-block;
+	padding: 3px;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+}
+
+/* div {
+	border: 2px solid red;
+} */
